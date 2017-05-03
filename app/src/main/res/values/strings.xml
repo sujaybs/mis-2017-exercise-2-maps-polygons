@@ -6,4 +6,8 @@
     <string name="no_perm">No permission to access location</string>
     <string name="conn_susp">"Connection suspended, cause: "</string>
     <string name="conn_failed">"Connection failed, result: "</string>
+    <string name="clear_all">Clear all</string>
+    <string name="i_am_here">I am here!</string>
+    <string name="sq_km">" sq. km."</string>
+    <string name="sq_m">" sq. m."</string>
 </resources>
