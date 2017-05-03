@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MIS–2017–2</string>
+    <string name="title_activity_maps">MIS–2017–2</string>
+    <string name="enter_message">Enter your message…</string>
+    <string name="mess_not_set">Message not set</string>
+    <string name="no_perm">No permission to access location</string>
+    <string name="conn_susp">"Connection suspended, cause: "</string>
+    <string name="conn_failed">"Connection failed, result: "</string>
+</resources>
